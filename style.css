@@ -1,0 +1,82 @@
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.head{
+  
+    font-size:25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:200;
+}
+
+.pigeon{
+    font-size:18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:50;
+}
+
+.panda{
+    font-size:18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:50;
+}
+
+.koala{
+    font-size:18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:50;
+}
+
+.owl{
+    font-size:18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:50;
+}
+
+.cicada{
+    font-size:18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:50;
+}
+
+.horse{
+    font-size:18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:50;
+}
+
+
+.menu{
+      display:flex;
+      justify-content:space-evenly;
+      background-color: lightyellow;
+      font-size:20px;
+      font-family:sans-serif;
+      font-weight:90;
+      color:white;
+     }
+
+body{
+    background-color:lightgoldenrodyellow;
+    }     
+ 
+.origami{
+        border-radius:20px;
+        background-color:lightgoldenrodyellow;
+
+        width:310px;
+        font-family:fantasy;
+        }    
+
+.grid img{
+         border:2px solid black;
+         border-radius:50px;
+         }        
+
+.grid{
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly ;
+    }
